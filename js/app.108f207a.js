@@ -232,6 +232,7 @@
                 { name: "拍立得", img: i("50c0"), color: "#e5b85c9c" },
                 { name: "泡泡玛特", img: i("50c0"), color: "#e5795c9c" },
                 { name: "Airpods Pro", img: i("50c0"), color: "#2f6c46b8" },
+                { name: "隐藏款", img: i("50c0"), color: "#98ff1eb8" },
                 { name: "谢谢惠顾", img: i("50c0"), color: "#b3e55cde" },
               ];
               e.forEach(function (e, i) {
