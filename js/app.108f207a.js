@@ -110,7 +110,7 @@
           { staticClass: "box" },
           [
             i("h1", [t._v("💫  旋转的愿望之环 💫")], { staticStyle: { margin: "30px 30px 30px 30px" } }),
-            i("demo1", { staticStyle: { margin: "30px auto" } }),
+            i("demo1", { staticStyle: { margin: "60px auto" } }),
             t._m(0),
             t._m(1),
             t._m(2),
@@ -127,7 +127,7 @@
             e = t.$createElement,
             i = t._self._c || e;
           return i("p", [
-            i("span", [t._v("愿望盒&实现盒")]),
+            i("span", [t._v("愿望 & 实现盒")]),
           ]);
         },
         function () {
