@@ -252,7 +252,7 @@
                 }, 2e3);
             },
             endCallBack: function (t) {
-              alert("恭喜老婆获得".concat(t.name));
+              alert("🎉 😚 恭喜 Sexy Wife 获得 ".concat(t.name));
             },
           },
         }),
