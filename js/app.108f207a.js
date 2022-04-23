@@ -141,7 +141,7 @@
             e = t.$createElement,
             i = t._self._c || e;
           return i("p", [
-            i("span", [t._v("© 2021 Wish Box Powered by ANON SYS, Inc.")]),
+            i("span", [t._v("© 2022 Wish Box Powered by ANON SYS, Inc.")]),
           ]);
         },
         function () {
@@ -215,7 +215,7 @@
               var e = [
                 { name: "香水", img: i("50c0"), color: "#f443365c" },
                 { name: "拍写真", img: i("50c0"), color: "#7f5ce58f" },
-                { name: "Swith游戏机", img: i("50c0"), color: "#e91e6399" },
+                { name: "谢谢惠顾", img: i("50c0"), color: "#e91e6399" },
                 { name: "谢谢惠顾", img: i("50c0"), color: "#9c27b08c" },
                 { name: "化妆品", img: i("50c0"), color: "#2767b036" },
                 { name: "小米投影仪", img: i("50c0"), color: "#5cdbe599" },
@@ -252,7 +252,7 @@
                 }, 2e3);
             },
             endCallBack: function (t) {
-              alert("恭喜凡凡获得".concat(t.name));
+              alert("恭喜老婆获得".concat(t.name));
             },
           },
         }),
